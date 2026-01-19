@@ -1,0 +1,6 @@
+imapclient
+pyzmail36
+requests
+pandas
+openpyxl
+PyPDF2

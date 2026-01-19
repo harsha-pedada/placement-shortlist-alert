@@ -1,0 +1,14 @@
+# ===== YOUR DETAILS =====
+MY_NAME = "YOUR_NAME"
+MY_ROLL = "YOUR_ROLL_NUMBER"
+
+# ===== EMAIL (GMAIL IMAP) =====
+EMAIL = "your_email@gmail.com"
+APP_PASSWORD = "APP_PASSWORD"
+
+# ===== TELEGRAM =====
+BOT_TOKEN = "TELEGRAM_BOT_TOKEN"
+CHAT_ID = "TELEGRAM_CHAT_ID"
+
+# ===== SETTINGS =====
+CHECK_INTERVAL = 10
